@@ -1,4 +1,1 @@
-NonGithubStars
-==============
-
-A collection of projects that I find interesting/cool/useful that aren't on Github
+- [libphonenumber](https://code.google.com/p/libphonenumber/) - Google's phone number handling library, powering Android and more.
